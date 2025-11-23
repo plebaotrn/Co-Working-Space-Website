@@ -237,8 +237,6 @@ CoBunny-v2/
 │   │   └── vTooltip.js      # Custom tooltip directive
 │   ├── router/
 │   │   └── index.js         # Vue Router with auth guards
-│   ├── services/
-│   │   └── api.js           # External API service
 │   ├── stores/
 │   │   └── bookings.js      # Pinia booking store
 │   ├── styles/
@@ -281,7 +279,7 @@ CoBunny-v2/
 ## 🔑 Demo Credentials
 
 ```
-Email: john@example.com
+Email: jane@example.com
 Password: password123
 ```
 
@@ -543,4 +541,5 @@ This project is for educational purposes.
 - [Vue Router](https://router.vuejs.org/)
 - [Bootstrap 5](https://getbootstrap.com/)
 - [Vite](https://vitejs.dev/)
+
 
