@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "email": "jane@example.com",
+    "password": "password123",
+    "favorites": [1, 5, 10],
+    "createdAt": "2024-03-20"
+  },
+  {
+    "id": 2,
+    "firstName": "Admin",
+    "lastName": "User",
+    "email": "admin@cobunny.com",
+    "password": "admin123",
+    "favorites": [2,8,20],  
+    "createdAt": "2024-01-01"
+  }
+]
